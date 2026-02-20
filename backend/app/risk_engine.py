@@ -1,7 +1,7 @@
 """
 Rule-based risk classification engine.
 
-Analyses request title + description for risk keywords and returns a
+Analyzes request title + description for risk keywords and returns a
 RiskAnalysis result used to drive the approval workflow.
 """
 
